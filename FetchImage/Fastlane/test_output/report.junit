@@ -1,16 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<testsuites name='FetchImageUITests.xctest' tests='7' failures='0'>
+<testsuites name='FetchImageTests.xctest' tests='1' failures='0'>
   <testsuite name='FetchImageTests.FetchImageTests' tests='1' failures='0'>
-    <testcase classname='FetchImageTests.FetchImageTests' name='testImages' time='0.027'/>
-  </testsuite>
-  <testsuite name='FetchImageUITests.FetchImageUITests' tests='2' failures='0'>
-    <testcase classname='FetchImageUITests.FetchImageUITests' name='testExample' time='1.890'/>
-    <testcase classname='FetchImageUITests.FetchImageUITests' name='testLaunchPerformance' time='76.898'/>
-  </testsuite>
-  <testsuite name='FetchImageUITests.FetchImageUITestsLaunchTests' tests='4' failures='0'>
-    <testcase classname='FetchImageUITests.FetchImageUITestsLaunchTests' name='testLaunch' time='3.343'/>
-    <testcase classname='FetchImageUITests.FetchImageUITestsLaunchTests' name='testLaunch' time='5.662'/>
-    <testcase classname='FetchImageUITests.FetchImageUITestsLaunchTests' name='testLaunch' time='3.613'/>
-    <testcase classname='FetchImageUITests.FetchImageUITestsLaunchTests' name='testLaunch' time='5.597'/>
+    <testcase classname='FetchImageTests.FetchImageTests' name='testImages' time='0.220'/>
   </testsuite>
 </testsuites>
