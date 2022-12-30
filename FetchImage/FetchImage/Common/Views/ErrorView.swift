@@ -15,6 +15,7 @@ import SwiftUI
 struct ErrorView: View {
 
     // MARK: Public Properties
+    
 
     var errorMessage: String
 
