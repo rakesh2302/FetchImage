@@ -16,6 +16,7 @@ struct ErrorView: View {
 
     // MARK: Public Properties
 
+    
     var errorMessage: String
 
     /// A view that displays Error Text
